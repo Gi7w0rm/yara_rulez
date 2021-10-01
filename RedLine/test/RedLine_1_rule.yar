@@ -1,6 +1,6 @@
 rule RedLine1 {
    meta:
-      description: "Rule made from 719 fully unpacked samples. It detected them all. Seems to falsely detect CoinMiner.XMRig (sample: 999ad238e43d208d395a64d425f40fb1b41f0c9e70624c194e8562c6dc191caa)"
+      description = "Rule made from 719 fully unpacked samples. It detected them all. Seems to falsely detect CoinMiner.XMRig (sample: 999ad238e43d208d395a64d425f40fb1b41f0c9e70624c194e8562c6dc191caa)"
       author = "@Gi7w0rm"
       reference = "https://github.com/Neo23x0/yarGen"
       date = "2021-09-29"
